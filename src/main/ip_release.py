@@ -6,7 +6,7 @@ from jsonschema.exceptions import ValidationError
 from main.log import Logger
 
 #from main.util import validate_json_with_schema, allow_ip_on_waf
-ip_sets = os.environ['ip_sets']
+ip_sets = os.getenv('ip_sets', 'waf.json')
 
 LOGGER = Logger()
 schema = {

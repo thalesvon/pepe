@@ -38,3 +38,8 @@ Release IP address on given WAF location.
 - WAF Regional: 
 
 `aws waf-regional list-ip-sets --query "IPSets[*]" --region us-east-1 | jq '.[] | "\(.Name) \(.IPSetId)"'`
+
+
+## Tests
+
+` pytest ./src/tests --cov-report term-missing --cov=./src/main/ip_release.py -vvv`
