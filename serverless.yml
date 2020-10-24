@@ -15,7 +15,7 @@ functions:
     handler: lambda.handler
     environment:
       ip_sets: waf.json
-      BOT_TOKEN: xoxb-293645508629-815265783972-kiECvHVP9Yv3leaGbo7gaokA
+      BOT_TOKEN: <TOKEN>
       SLACK_URL: https://slack.com/api/chat.postMessage
     events:
       - http:
