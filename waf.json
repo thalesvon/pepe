@@ -1,38 +1,14 @@
 {
-    "juridico": {
-        "GlobalId": "0f78f56b-1503-4b59-96c2-f01b499beb86"
-    },
-    "andres": {
-        "GlobalId": "201f6cd4-dd3c-44de-82f8-38507ed02d80"
-    },
-    "mariano": {
-        "GlobalId": "2c4de62f-3ac4-44eb-9e22-5237f2de10e5"
-    },
     "br": {
-        "GlobalId": "60c278aa-efbb-4011-a8d8-446c6b532ead",
-        "RegionalId": "83d7a789-10b2-43b4-8b05-fe23c44dc09b"
-    },
-    "john": {
-        "GlobalId": "76ff8864-52ed-453f-a2fa-63c806624389"
-    },
-    "song": {
-        "GlobalId": "83efb7e4-989b-4eaf-b46f-bca7cf736ec9"
-    },
-    "edecor": {
-        "GlobalId": "afead2c8-2d5d-4b38-b7f4-a425739c161c"
+        "GlobalId": "GLOBAL_WAF_ID",
+        "RegionalId": "REGIONAL_WAF_ID"
     },
     "mx": {
-        "GlobalId": "c28c687c-629a-42b4-a870-165f898ee694",
-        "RegionalId": "882e7110-07e8-47a4-a646-dc3f93791e07"
+        "GlobalId": "GLOBAL_WAF_ID",
+        "RegionalId": "REGIONAL_WAF_ID"
     },
     "us": {
-        "GlobalId": "cf620120-118d-4b91-bf94-198914732d2f",
-        "RegionalId": "f9eba04a-7a44-445c-878c-e5b0d3ea7d85"
-    },
-    "conekta": {
-        "RegionalId": "cb30927b-79c3-498e-8eac-a18ea9e92128"
-    },
-    "nat": {
-        "RegionalId": "f027b295-2c3b-4c98-a0b3-ee585dfe676a"
+        "GlobalId": "GLOBAL_WAF_ID",
+        "RegionalId": "REGIONAL_WAF_ID"
     }
 }
