@@ -3,12 +3,12 @@
 ### Clone Repository
 
 ```
-git clone git@github.com:Boomcredit/pepe.git
+git clone https://github.com/thalesvon/pepe.git
 ```
 
 ### Environment
 
-Refresh aws tokens using [aws-google-auth](https://github.com/Boomcredit/boomcredit-devops/wiki/Sign-in-to-AWS-using-GSuite-credentials)
+Set [AWS Crendetials](https://docs.aws.amazon.com/cli/latest/userguide/cli-configure-quickstart.html#cli-configure-quickstart-config)
 
 Get a set of ready to use functions (bash):
 ```bash
